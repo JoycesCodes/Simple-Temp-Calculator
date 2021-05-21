@@ -1,0 +1,46 @@
+h3{
+    background-image: url(../images/banner.jpg);
+    padding: 10px;
+    color: rgb(6, 91, 170) /*rgb(20, 128, 204)*/;
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-shadow: rgb(187, 196, 204);
+}
+
+.bg-light{
+    background-color: rgba(107, 107, 201, 0.815)!important;
+}
+nav button{
+    float: right;
+}
+
+body{
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main div{
+    background-color: rgba(161, 161, 224, 0.507);
+    padding: 10px;
+    margin-top: 10%;
+    color:rgb(224, 239, 250);
+}
+
+.btn-info{
+    padding: .15rem .75rem;
+}
+.btn-danger{
+    background-color: rgba(255, 0, 0, 0.829);
+    padding: .15rem .75rem; 
+}
+
+.calculator.container{
+    width: 50%;
+}
+.calculator input[type=button]{
+   margin-bottom: 15px;
+}
+.calculator p input{
+    display: inline;
+    float: right;
+}

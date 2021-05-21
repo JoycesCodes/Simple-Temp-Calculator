@@ -3,6 +3,8 @@
 window.onload = function() {
     const fTempBtn = document.getElementById("fTempBtn");
     fTempBtn.onclick = fTempBtnClicked;
+    const resetBtn = document.getElementById("reset")
+    resetBtn.onclick = resetBtnClicked;
 }
 
 function fTempBtnClicked(){
@@ -13,4 +15,10 @@ function fTempBtnClicked(){
 
     const resultField = document.getElementById("result");
     resultField.value = result;
+}
+
+function resetBtnClicked(){
+    const fTempField = document.getElementById("fTemp");
+    fTempField.value = null;
+    result.value = null;
 }
