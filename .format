@@ -3,7 +3,8 @@
 
 <head>
     <title>Home Page</title>
-    <link rel="stylesheet" href="styles/header-footer.css">
+        <link rel="stylesheet" href="styles/header-footer.css">
+    <link rel="stylesheet" href="styles/calculator.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <script src="js/f-to-c.js"></script> 
@@ -42,19 +43,7 @@
         </nav>
     </header>
     <main>
-        <h2>Do you want to learn about the different temperature units?</h2>
-        <h4>Here's some info!</h4>
-        <p>
-            Ship of the imagination a very small stage in a vast cosmic arena Vangelis Tunguska event cosmos kindling
-            the energy hidden in matter? Colonies network of wormholes with pretty stories for which there's little good
-            evidence tingling of the spine emerged into consciousness descended from astronomers? As a patch of light
-            dispassionate extraterrestrial observer paroxysm of global death the carbon in our apple pies network of
-            wormholes network of wormholes and billions upon billions upon billions upon billions upon billions upon
-            billions upon billions.
-        </p>
-        <p>
-            Check the header for links to the different conversion calculators!
-        </p>
+
     </main>
     <footer>
 
